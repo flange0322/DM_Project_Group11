@@ -1,0 +1,166 @@
+DEBUG:root:no filtering: False
+DEBUG:root:no tuning: False
+DEBUG:root:0.6739130434782609
+DEBUG:root:0.712150677348887
+DEBUG:root:0.6739130434782609
+DEBUG:root:0.6849976376154386
+DEBUG:root:[[74  4  2  3  4  6  0  8]
+ [ 2 29  7  0  2  4  1 14]
+ [ 1 13 37  0  1  1  0  1]
+ [ 6  0  1 21  0  0  0  3]
+ [ 2  4  1  0 17  1  0  1]
+ [ 2  0  1  0  0 17  1  0]
+ [ 1  1  1  0  0  0 12  0]
+ [ 2  0  0  0  1  1  1 10]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7056552365295973
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6660014746710547
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  0 18  1  1  1]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.11
+DEBUG:root:0.6522435897435898
+DEBUG:root:0.6623874484823832
+DEBUG:root:0.6522435897435898
+DEBUG:root:0.6472842124936619
+DEBUG:root:[[233  30   2   7   5   8   4  10   3]
+ [ 35  62   0   0   2   0   2   0   0]
+ [ 27   0  24   2   0   0   2   1   3]
+ [ 20   0   3  30   0   0   0   0   1]
+ [  9   2   0   0  19   0   0   0   1]
+ [  8   1   1   2   0  14   0   0   0]
+ [ 10   0   0   0   0   0  11   0   0]
+ [  8   0   0   0   0   0   0   7   0]
+ [  6   0   0   0   1   0   0   1   7]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6538461538461539
+DEBUG:root:0.7054538449258276
+DEBUG:root:0.6538461538461539
+DEBUG:root:0.6337549985547861
+DEBUG:root:[[264  23   0   2   3   2   0   6   2]
+ [ 44  51   0   0   5   0   1   0   0]
+ [ 41   0  16   0   0   0   1   0   1]
+ [ 31   0   0  23   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 13   0   0   0   0  13   0   0   0]
+ [ 11   0   0   0   0   0  10   0   0]
+ [  9   0   0   0   0   0   0   6   0]
+ [  9   0   0   0   1   0   0   0   5]]
+DEBUG:root:[('size_fit', {'sized', 'large', 'fit', 'pens', 'fits'}), ('quality', {'sharp', 'material', 'quality', 'leather', 'substandard', 'stitching', 'durable', 'materials'}), ('looks', {'red', 'pink', 'shiny', 'fancy', 'color', 'green', 'bright', 'picture'}), ('compartments', {'compartments', 'pocket', 'pockets', 'storage', 'pokets'}), ('price', {'worth', 'pay', '$', 'price', 'money'}), ('protection', {'protected', 'protecting', 'scratches', 'denting', 'secure', 'scratching', 'cushioning', 'protect', 'protection'}), ('customer_service', {'emailing', 'warranty', 'shipping', 'communication'}), ('handles', {'handles', 'sling', 'hook', 'sleeve', 'shoulder'})]
+DEBUG:root:0.6583850931677019
+DEBUG:root:0.7138014881679635
+DEBUG:root:0.6583850931677019
+DEBUG:root:0.6742003934396382
+DEBUG:root:[[74  3  7  2  0  7  0  8]
+ [ 1 27 10  0  0  3  2 16]
+ [ 1 15 37  0  0  0  0  1]
+ [ 4  0  2 21  0  1  0  3]
+ [ 1  4  2  0 17  1  1  0]
+ [ 0  0  1  0  0 19  1  0]
+ [ 0  1  3  0  1  0 10  0]
+ [ 1  0  1  1  1  3  1  7]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7061318799971645
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6661938895909651
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  1 18  1  0  1]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.11
+DEBUG:root:0.6426282051282052
+DEBUG:root:0.6697545443205616
+DEBUG:root:0.6426282051282052
+DEBUG:root:0.6447846358535234
+DEBUG:root:[[220  30   1   9   2   4   6  14  16]
+ [ 33  62   0   0   2   0   3   0   1]
+ [ 24   0  24   3   0   0   2   0   6]
+ [ 18   0   4  30   0   0   1   0   1]
+ [  8   3   0   0  19   0   0   0   1]
+ [  8   1   1   2   0  14   0   0   0]
+ [  7   0   0   0   0   0  14   0   0]
+ [  6   0   0   0   0   0   0   9   0]
+ [  5   0   0   0   0   0   0   1   9]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.655448717948718
+DEBUG:root:0.7065804732925403
+DEBUG:root:0.655448717948718
+DEBUG:root:0.6355616041298189
+DEBUG:root:[[264  24   0   2   2   2   0   5   3]
+ [ 43  53   0   0   4   0   1   0   0]
+ [ 41   0  16   0   0   0   0   0   2]
+ [ 29   0   0  25   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 12   1   0   0   0  13   0   0   0]
+ [ 13   0   0   0   0   0   8   0   0]
+ [ 10   0   0   0   0   0   0   5   0]
+ [  9   0   0   0   1   0   0   0   5]]
+DEBUG:root:iteration: 1
+DEBUG:root:[('size_fit', {'sized', 'large', 'fit', 'pens', 'fits'}), ('quality', {'sharp', 'material', 'quality', 'substandard', 'stitching', 'durable', 'materials'}), ('looks', {'red', 'pink', 'shiny', 'fancy', 'color', 'green', 'bright', 'picture'}), ('compartments', {'compartments', 'pocket', 'pockets', 'storage', 'pokets'}), ('price', {'worth', 'pay', '$', 'price', 'money'}), ('protection', {'protected', 'protecting', 'scratches', 'denting', 'secure', 'scratching', 'cushioning', 'protect', 'protection'}), ('customer_service', {'emailing', 'warranty', 'shipping', 'communication'}), ('handles', {'handles', 'sling', 'hook', 'sleeve', 'shoulder'})]
+DEBUG:root:0.6521739130434783
+DEBUG:root:0.6953566726171014
+DEBUG:root:0.6521739130434783
+DEBUG:root:0.6650260188017625
+DEBUG:root:[[73  2  7  4  0  8  0  7]
+ [ 3 28  7  1  1  3  0 16]
+ [ 2 15 36  0  0  1  0  0]
+ [ 5  0  1 20  0  1  0  4]
+ [ 2  3  2  0 18  1  0  0]
+ [ 3  0  1  0  0 16  0  1]
+ [ 0  1  3  0  1  0 10  0]
+ [ 1  0  0  1  2  1  1  9]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7061318799971645
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6661938895909651
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  1 18  1  0  1]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.11
+DEBUG:root:0.6586538461538461
+DEBUG:root:0.681575807905209
+DEBUG:root:0.6586538461538461
+DEBUG:root:0.6568260173584985
+DEBUG:root:[[231  31   1   6   2   6   4  10  11]
+ [ 32  64   0   0   1   0   4   0   0]
+ [ 28   0  24   0   0   0   3   0   4]
+ [ 19   0   3  30   0   0   1   0   1]
+ [ 10   2   0   0  19   0   0   0   0]
+ [  9   1   0   2   0  14   0   0   0]
+ [  7   1   0   0   0   0  13   0   0]
+ [  7   0   0   0   0   0   0   8   0]
+ [  5   0   0   0   0   1   0   1   8]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.655448717948718
+DEBUG:root:0.7086645618049
+DEBUG:root:0.655448717948718
+DEBUG:root:0.6316321342940511
+DEBUG:root:[[268  21   0   3   2   2   0   3   3]
+ [ 42  53   0   0   5   0   1   0   0]
+ [ 43   0  14   0   0   0   0   0   2]
+ [ 31   0   0  23   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 12   1   0   0   0  13   0   0   0]
+ [ 13   0   0   0   0   0   8   0   0]
+ [ 10   0   0   0   0   0   0   5   0]
+ [  9   0   0   0   1   0   0   0   5]]
+DEBUG:root:iteration: 2
+DEBUG:root:[('size_fit', {'sized', 'large', 'fit', 'pens', 'fits'}), ('quality', {'sharp', 'material', 'quality', 'substandard', 'stitching', 'durable', 'materials'}), ('looks', {'red', 'pink', 'shiny', 'fancy', 'color', 'green', 'bright', 'picture'}), ('compartments', {'compartments', 'pocket', 'pockets', 'storage', 'pokets'}), ('price', {'worth', 'pay', '$', 'price', 'money'}), ('protection', {'protected', 'protecting', 'scratches', 'denting', 'secure', 'scratching', 'cushioning', 'protect', 'protection'}), ('customer_service', {'emailing', 'warranty', 'shipping', 'communication'}), ('handles', {'handles', 'sling', 'hook', 'sleeve', 'shoulder'})]

@@ -1,0 +1,166 @@
+DEBUG:root:no filtering: False
+DEBUG:root:no tuning: True
+DEBUG:root:0.6521739130434783
+DEBUG:root:0.7071856935104264
+DEBUG:root:0.6521739130434783
+DEBUG:root:0.6677810545880151
+DEBUG:root:[[73  3  8  3  0  7  0  7]
+ [ 2 27  7  0  1  8  0 14]
+ [ 1 15 36  0  0  1  0  1]
+ [ 3  1  1 21  1  1  0  3]
+ [ 1  4  2  1 17  0  0  1]
+ [ 1  0  1  0  0 17  0  2]
+ [ 1  0  4  0  0  0 10  0]
+ [ 3  1  0  0  0  1  1  9]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7059956179441474
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6661351291756621
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  0 18  2  0  1]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.26
+DEBUG:root:0.6330128205128205
+DEBUG:root:0.647010898927084
+DEBUG:root:0.6330128205128205
+DEBUG:root:0.6351794743271214
+DEBUG:root:[[211  34   2  11   4   6   8  12  14]
+ [ 28  63   2   0   4   0   4   0   0]
+ [ 21   0  26   5   0   0   1   1   5]
+ [ 16   0   6  31   0   0   0   0   1]
+ [  7   2   0   0  21   0   0   0   1]
+ [  7   1   2   2   0  14   0   0   0]
+ [  7   1   0   0   0   0  13   0   0]
+ [  8   0   0   0   0   0   0   7   0]
+ [  5   0   0   0   0   0   0   1   9]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6602564102564102
+DEBUG:root:0.7054353500329622
+DEBUG:root:0.6602564102564102
+DEBUG:root:0.6415252645599142
+DEBUG:root:[[263  23   0   3   3   2   0   4   4]
+ [ 41  53   0   0   6   0   1   0   0]
+ [ 40   0  16   0   0   0   1   0   2]
+ [ 29   0   0  25   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 12   1   0   0   0  13   0   0   0]
+ [ 10   0   0   0   0   0  11   0   0]
+ [ 10   0   0   0   0   0   0   5   0]
+ [  7   0   0   0   2   0   0   0   6]]
+DEBUG:root:[('size_fit', {'fits', 'getting', 'thin', '14', 'screen', 'hassle', 'fit', "''", 'putting', 'large'}), ('quality', {'surprise', 'rivets', 'substandard', 'materials', 'durable', 'popped', 'weeks', 'leather', 'broke', 'quality'}), ('looks', {'funny', 'true', 'color', 'kinda', 'shiny', 'hot', 'red', 'fancy', 'picture', 'may'}), ('compartments', {'smart', 'pocket', 'pad', 'compartments', 'pokets', 'lots', 'storage', 'each', 'shoe', 'accessories'}), ('price', {'price', 'money', 'stores', 'pay', 'these', 'compared', '$', 'worth', 'features', 'bags'}), ('protection', {'denting', 'scratches', 'protected', 'underneath', 'periferals', 'damaged', 'course', 'keeps', 'secure', 'cushioning'}), ('customer_service', {'dissappointed', 'totally', 'emailing', 'them', 'communication', 'warranty', 'swissgear', 'written', 'shipping', 'received'}), ('handles', {'straps', 'burn', 'sling', 'hurt', 'biggest', 'shoulder', 'yourself', 'hook', 'sleeve', 'scrape'})]
+DEBUG:root:0.6801242236024845
+DEBUG:root:0.7067524801125235
+DEBUG:root:0.6801242236024845
+DEBUG:root:0.6880005042981743
+DEBUG:root:[[75  3  3  2  4  5  0  9]
+ [ 3 31  7  1  2  4  1 10]
+ [ 1 16 37  0  0  0  0  0]
+ [ 6  1  1 20  1  0  0  2]
+ [ 2  2  2  1 19  0  0  0]
+ [ 2  0  1  0  0 16  1  1]
+ [ 0  1  2  0  1  0 11  0]
+ [ 1  0  0  1  1  1  1 10]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7071688854674333
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6667559774885568
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  0 18  1  0  2]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.27
+DEBUG:root:0.6666666666666666
+DEBUG:root:0.685709153789879
+DEBUG:root:0.6666666666666666
+DEBUG:root:0.6658676087709967
+DEBUG:root:[[231  30   3   5   3   4   4  10  12]
+ [ 31  64   0   0   3   0   3   0   0]
+ [ 24   0  26   2   0   0   2   1   4]
+ [ 22   0   2  29   0   0   0   0   1]
+ [  8   2   0   0  20   0   0   0   1]
+ [  7   1   1   2   0  15   0   0   0]
+ [  6   0   0   0   0   0  15   0   0]
+ [  7   0   0   0   0   0   0   8   0]
+ [  6   0   0   0   0   0   0   1   8]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6650641025641025
+DEBUG:root:0.7015707156199235
+DEBUG:root:0.6650641025641025
+DEBUG:root:0.6474492747327153
+DEBUG:root:[[262  27   0   3   2   2   0   3   3]
+ [ 38  56   0   0   6   0   1   0   0]
+ [ 37   0  17   1   0   0   1   0   3]
+ [ 28   0   1  25   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 12   1   0   0   0  13   0   0   0]
+ [ 10   0   0   0   0   0  11   0   0]
+ [ 10   0   0   0   0   0   0   5   0]
+ [  7   0   0   0   2   0   0   0   6]]
+DEBUG:root:iteration: 1
+DEBUG:root:[('size_fit', {'fits', 'getting', 'thin', '14', 'screen', 'hassle', 'fit', "''", 'putting', 'large'}), ('quality', {'itself', 'surprise', 'rivets', 'substandard', 'materials', 'durable', 'popped', 'weeks', 'broke', 'quality'}), ('looks', {'funny', 'true', 'color', 'kinda', 'shiny', 'hot', 'red', 'fancy', 'picture', 'may'}), ('compartments', {'smart', 'pocket', 'pad', 'compartments', 'pokets', 'lots', 'storage', 'each', 'shoe', 'accessories'}), ('price', {'price', 'money', 'stores', 'pay', 'these', 'compared', '$', 'worth', 'features', 'bags'}), ('protection', {'denting', 'scratches', 'protected', 'underneath', 'periferals', 'damaged', 'course', 'keeps', 'secure', 'cushioning'}), ('customer_service', {'dissappointed', 'totally', 'emailing', 'them', 'communication', 'warranty', 'swissgear', 'written', 'shipping', 'received'}), ('handles', {'straps', 'burn', 'sling', 'hurt', 'biggest', 'shoulder', 'yourself', 'hook', 'sleeve', 'scrape'})]
+DEBUG:root:0.6708074534161491
+DEBUG:root:0.7141528370191793
+DEBUG:root:0.6708074534161491
+DEBUG:root:0.6829720172084641
+DEBUG:root:[[75  4  7  2  0  6  0  7]
+ [ 2 30  8  0  1  5  1 12]
+ [ 1 15 37  0  0  0  0  1]
+ [ 6  0  0 20  0  2  0  3]
+ [ 1  4  4  0 17  0  0  0]
+ [ 2  0  1  0  0 17  0  1]
+ [ 1  1  2  0  0  0 11  0]
+ [ 2  1  0  0  1  1  1  9]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.65527950310559
+DEBUG:root:0.7071688854674333
+DEBUG:root:0.65527950310559
+DEBUG:root:0.6667559774885568
+DEBUG:root:[[67  3  8  7  1  4  2  9]
+ [ 1 26 10  4  1  4  2 11]
+ [ 0 11 41  0  1  0  0  1]
+ [ 2  0  1 23  1  0  0  4]
+ [ 1  3  1  0 18  1  0  2]
+ [ 1  0  2  2  0 16  0  0]
+ [ 0  1  1  0  1  0 12  0]
+ [ 0  0  0  4  1  1  1  8]]
+DEBUG:root:threshold:0.26
+DEBUG:root:0.6410256410256411
+DEBUG:root:0.6527672983421683
+DEBUG:root:0.6410256410256411
+DEBUG:root:0.6412838862061206
+DEBUG:root:[[217  34   6   8   3   7   4  11  12]
+ [ 29  64   2   0   2   0   4   0   0]
+ [ 23   0  25   4   0   0   1   0   6]
+ [ 20   0   3  31   0   0   0   0   0]
+ [  8   3   0   0  18   0   0   0   2]
+ [  7   1   2   2   0  14   0   0   0]
+ [  6   1   0   0   0   0  14   0   0]
+ [  7   0   0   0   0   0   0   8   0]
+ [  5   0   0   0   0   0   0   1   9]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6538461538461539
+DEBUG:root:0.6974004747453075
+DEBUG:root:0.6538461538461539
+DEBUG:root:0.63642262583152
+DEBUG:root:[[260  27   0   3   3   2   0   4   3]
+ [ 40  54   0   0   6   0   1   0   0]
+ [ 36   0  19   0   0   0   1   0   3]
+ [ 32   0   0  22   0   0   0   0   0]
+ [ 10   1   0   0  20   0   0   0   0]
+ [ 12   1   0   0   0  13   0   0   0]
+ [ 12   0   0   0   0   0   9   0   0]
+ [ 10   0   0   0   0   0   0   5   0]
+ [  7   0   0   0   2   0   0   0   6]]
+DEBUG:root:iteration: 2
+DEBUG:root:[('size_fit', {'fits', 'getting', 'thin', '14', 'screen', 'hassle', 'fit', "''", 'putting', 'large'}), ('quality', {'itself', 'surprise', 'rivets', 'substandard', 'materials', 'durable', 'popped', 'weeks', 'broke', 'quality'}), ('looks', {'funny', 'true', 'color', 'kinda', 'shiny', 'hot', 'red', 'fancy', 'picture', 'may'}), ('compartments', {'smart', 'pocket', 'pad', 'compartments', 'pokets', 'lots', 'storage', 'each', 'shoe', 'accessories'}), ('price', {'price', 'money', 'stores', 'pay', 'these', 'compared', '$', 'worth', 'features', 'bags'}), ('protection', {'denting', 'scratches', 'protected', 'underneath', 'periferals', 'damaged', 'course', 'keeps', 'secure', 'cushioning'}), ('customer_service', {'dissappointed', 'totally', 'emailing', 'them', 'communication', 'warranty', 'swissgear', 'written', 'shipping', 'received'}), ('handles', {'straps', 'burn', 'sling', 'hurt', 'biggest', 'shoulder', 'yourself', 'hook', 'sleeve', 'scrape'})]

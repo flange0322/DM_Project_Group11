@@ -1,0 +1,254 @@
+DEBUG:root:no filtering: False
+DEBUG:root:no tuning: False
+DEBUG:root:0.7793427230046949
+DEBUG:root:0.8116665549918968
+DEBUG:root:0.7793427230046949
+DEBUG:root:0.7785706935989543
+DEBUG:root:[[95  4 35  2  4 17  2]
+ [ 1 96  4  0  1  2  8]
+ [ 0  0 89  1  1  0  1]
+ [ 2  4  3 50  1  9  3]
+ [ 1  3  2  0 58  0  5]
+ [ 1  3  1  5  1 52  5]
+ [ 1  1  6  0  0  1 58]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.43
+DEBUG:root:0.699594046008119
+DEBUG:root:0.7398727278913774
+DEBUG:root:0.699594046008119
+DEBUG:root:0.7031972226770387
+DEBUG:root:[[76  1 48 23  2  2  5  2]
+ [ 0 92  8  2  1  1  2  6]
+ [12 13 51 10  6  4  2  2]
+ [ 0  0  2 88  1  1  0  0]
+ [ 0  1 14  1 50  1  5  0]
+ [ 0  2  7  1  0 57  0  2]
+ [ 1  1  8  1  6  0 49  2]
+ [ 0  0 11  1  0  1  0 54]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6955345060893099
+DEBUG:root:0.7647294615805458
+DEBUG:root:0.6955345060893099
+DEBUG:root:0.7018820122393132
+DEBUG:root:[[67  1 55 26  3  1  5  1]
+ [ 0 95  9  1  0  1  2  4]
+ [ 6  7 60 11  6  5  2  3]
+ [ 0  0  3 88  0  1  0  0]
+ [ 0  1 17  0 48  1  5  0]
+ [ 0  1 10  0  0 56  0  2]
+ [ 0  1 14  0  5  0 46  2]
+ [ 0  0 12  0  0  1  0 54]]
+DEBUG:root:[('support', {'contacted', 'support', 'service', 'return', 'apple', 'warrenty', 'sent', 'coverage', 'replace'}), ('display', {'screen', 'color', 'monitor', 'glare', 'display', 'led'}), ('battery', {'charge', 'hour', 'life', 'lasts', 'last', 'battery', 'hrs'}), ('software', {'software', 'itunes', 'six', 'photo', 'program', 'app'}), ('keyboard', {'keyboard', 'key', 'keys'}), ('os', {'lion', 'windows', 'system', 'ios', 'mac', 'os'}), ('mouse', {'mouse', 'track', 'pad', 'button', 'mousepad', 'touchpad', 'touch', 'trackpad'})]
+DEBUG:root:0.7652582159624414
+DEBUG:root:0.8107551956756537
+DEBUG:root:0.7652582159624414
+DEBUG:root:0.7636727621920625
+DEBUG:root:[[83  4 46  4  3 16  3]
+ [ 0 93  5  1  3  2  8]
+ [ 0  0 90  1  1  0  0]
+ [ 1  1  5 53  1 10  1]
+ [ 0  3  5  0 59  0  2]
+ [ 2  0  2  7  0 53  4]
+ [ 2  0  4  0  1  2 58]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.43
+DEBUG:root:0.7158322056833559
+DEBUG:root:0.7568838537515009
+DEBUG:root:0.7158322056833559
+DEBUG:root:0.7203313070860804
+DEBUG:root:[[82  1 39 25  3  1  5  3]
+ [ 0 92  8  3  1  1  2  5]
+ [13  5 57 12  7  2  2  2]
+ [ 0  0  1 90  0  1  0  0]
+ [ 0  1 13  2 50  1  5  0]
+ [ 0  1  7  2  0 57  0  2]
+ [ 1  0 11  1  5  0 47  3]
+ [ 0  0 11  1  0  1  0 54]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6914749661705006
+DEBUG:root:0.7621169202196701
+DEBUG:root:0.6914749661705006
+DEBUG:root:0.6959387447673128
+DEBUG:root:[[62  2 60 24  4  1  5  1]
+ [ 0 95  9  1  1  1  2  3]
+ [ 6  7 60 13  6  5  2  1]
+ [ 0  0  3 88  0  1  0  0]
+ [ 0  1 12  1 50  1  7  0]
+ [ 0  1 10  0  0 56  0  2]
+ [ 0  1 15  0  5  0 46  1]
+ [ 0  0 12  0  0  1  0 54]]
+DEBUG:root:iteration: 1
+DEBUG:root:[('support', {'contacted', 'support', 'service', 'return', 'called', 'apple', 'warrenty', 'sent', 'coverage', 'replace'}), ('display', {'screen', 'color', 'monitor', 'glare', 'display', 'led'}), ('battery', {'charge', 'hour', 'life', 'lasts', 'last', 'battery', 'hrs'}), ('software', {'software', 'itunes', 'six', 'photo', 'program', 'app'}), ('keyboard', {'keyboard', 'key', 'keys'}), ('os', {'lion', 'windows', 'system', 'ios', 'mac', 'os'}), ('mouse', {'mouse', 'track', 'pad', 'button', 'mousepad', 'touchpad', 'touch', 'trackpad'})]
+DEBUG:root:0.784037558685446
+DEBUG:root:0.8260921323870375
+DEBUG:root:0.784037558685446
+DEBUG:root:0.7845134118751054
+DEBUG:root:[[93  3 40  3  1 17  2]
+ [ 1 96  3  2  0  2  8]
+ [ 0  0 91  0  1  0  0]
+ [ 1  3  2 50  2 14  0]
+ [ 0  2  3  0 59  2  3]
+ [ 0  3  1  6  0 56  2]
+ [ 1  1  4  0  0  5 56]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.42
+DEBUG:root:0.7050067658998647
+DEBUG:root:0.7603050222813453
+DEBUG:root:0.7050067658998647
+DEBUG:root:0.7075493669005698
+DEBUG:root:[[68  1 46 34  3  2  4  1]
+ [ 0 92  9  2  1  1  2  5]
+ [ 9  6 60 14  7  1  1  2]
+ [ 0  0  2 89  0  1  0  0]
+ [ 0  1 13  2 51  1  4  0]
+ [ 0  1  8  1  0 57  0  2]
+ [ 1  0  8  1  5  0 50  3]
+ [ 0  0 12  0  0  1  0 54]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.7023004059539919
+DEBUG:root:0.7723184752495145
+DEBUG:root:0.7023004059539919
+DEBUG:root:0.707138359961115
+DEBUG:root:[[64  1 58 25  4  1  5  1]
+ [ 0 95  9  1  1  1  2  3]
+ [ 6  4 64 12  7  4  2  1]
+ [ 0  0  3 88  0  1  0  0]
+ [ 0  1 13  0 50  1  7  0]
+ [ 0  1 10  0  0 56  0  2]
+ [ 0  1 12  0  5  0 49  1]
+ [ 0  0 13  0  0  1  0 53]]
+DEBUG:root:iteration: 2
+DEBUG:root:[('support', {'contacted', 'support', 'service', 'return', 'called', 'apple', 'warrenty', 'sent', 'coverage', 'replace'}), ('display', {'screen', 'color', 'monitor', 'glare', 'display', 'led'}), ('battery', {'charge', 'hour', 'life', 'lasts', 'last', 'battery', 'hrs'}), ('software', {'software', 'itunes', 'six', 'photo', 'program', 'app'}), ('keyboard', {'keyboard', 'key', 'keys'}), ('os', {'lion', 'windows', 'system', 'ios', 'mac', 'os', 'win'}), ('mouse', {'mouse', 'track', 'pad', 'button', 'mousepad', 'touchpad', 'touch', 'trackpad'})]
+DEBUG:root:0.755868544600939
+DEBUG:root:0.8118824138726702
+DEBUG:root:0.755868544600939
+DEBUG:root:0.7531786347808752
+DEBUG:root:[[79  2 49  2  4 20  3]
+ [ 1 94  3  0  2  3  9]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  4 47  5 15  0]
+ [ 0  2  4  0 58  0  5]
+ [ 1  0  2  6  0 56  3]
+ [ 1  1  2  0  1  3 59]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.41
+DEBUG:root:0.7185385656292287
+DEBUG:root:0.7623300528692786
+DEBUG:root:0.7185385656292287
+DEBUG:root:0.7229029834539517
+DEBUG:root:[[80  1 42 22  3  1  8  2]
+ [ 1 93  9  2  0  1  2  4]
+ [ 9  6 61 14  5  1  2  2]
+ [ 0  0  1 89  1  1  0  0]
+ [ 0  1 15  1 47  1  7  0]
+ [ 0  1  8  1  0 57  0  2]
+ [ 1  1  8  0  5  0 51  2]
+ [ 1  0 10  1  0  1  1 53]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.7009472259810555
+DEBUG:root:0.7729226583514844
+DEBUG:root:0.7009472259810555
+DEBUG:root:0.7032341781419458
+DEBUG:root:[[59  2 64 24  3  1  5  1]
+ [ 0 95  8  2  1  1  2  3]
+ [ 6  3 66 12  5  4  2  2]
+ [ 0  0  3 88  0  1  0  0]
+ [ 0  1 14  1 49  1  6  0]
+ [ 0  2  8  0  0 57  0  2]
+ [ 0  1 11  0  5  0 50  1]
+ [ 0  0 12  0  0  1  0 54]]
+DEBUG:root:iteration: 3
+DEBUG:root:[('support', {'contacted', 'support', 'service', 'return', 'called', 'apple', 'warrenty', 'sent', 'coverage', 'replace'}), ('display', {'screen', 'color', 'viewing', 'monitor', 'glare', 'display', 'led'}), ('battery', {'charge', 'hour', 'life', 'lasts', 'last', 'battery', 'hrs'}), ('software', {'software', 'itunes', 'six', 'photo', 'program', 'app'}), ('keyboard', {'keyboard', 'key', 'keys'}), ('os', {'lion', 'windows', 'system', 'ios', 'mac', 'os', 'win'}), ('mouse', {'mouse', 'track', 'pad', 'button', 'mousepad', 'touchpad', 'touch', 'trackpad'})]
+DEBUG:root:0.7496087636932708
+DEBUG:root:0.8157161875902169
+DEBUG:root:0.7496087636932708
+DEBUG:root:0.7464698321653622
+DEBUG:root:[[74  2 45  5  2 24  7]
+ [ 0 93  4  1  1  2 11]
+ [ 0  0 89  1  1  0  1]
+ [ 0  1  5 53  2  9  2]
+ [ 0  1  5  0 55  1  7]
+ [ 0  2  1  6  0 55  4]
+ [ 0  0  4  0  0  3 60]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.46
+DEBUG:root:0.7185385656292287
+DEBUG:root:0.7559181696987233
+DEBUG:root:0.7185385656292287
+DEBUG:root:0.7201427018339138
+DEBUG:root:[[78  1 43 23  2  1  8  3]
+ [ 0 91  7  3  1  1  2  7]
+ [ 9  5 59  9  8  5  2  3]
+ [ 0  0  2 88  1  1  0  0]
+ [ 0  1 11  1 50  1  8  0]
+ [ 1  2  7  0  0 57  0  2]
+ [ 1  0  6  0  5  0 53  3]
+ [ 0  0  9  1  0  1  1 55]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6968876860622463
+DEBUG:root:0.7649006597414324
+DEBUG:root:0.6968876860622463
+DEBUG:root:0.6978042667986637
+DEBUG:root:[[58  2 61 26  4  1  6  1]
+ [ 0 95  7  1  1  1  2  5]
+ [ 6  5 65  9  5  5  2  3]
+ [ 0  0  5 86  0  1  0  0]
+ [ 0  1 14  0 50  1  6  0]
+ [ 0  1  9  0  0 57  0  2]
+ [ 0  1 12  0  5  0 48  2]
+ [ 0  0 10  0  0  1  0 56]]

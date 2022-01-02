@@ -1,0 +1,103 @@
+DEBUG:root:no filtering: False
+DEBUG:root:no tuning: True
+DEBUG:root:0.7699530516431925
+DEBUG:root:0.8179270063289459
+DEBUG:root:0.7699530516431925
+DEBUG:root:0.769961777475477
+DEBUG:root:[[86  4 45  3  2 18  1]
+ [ 0 96  5  1  2  2  6]
+ [ 0  1 89  1  1  0  0]
+ [ 1  2  5 52  1 11  0]
+ [ 0  3  4  0 59  0  3]
+ [ 1  1  2  6  1 55  2]
+ [ 1  0  4  1  1  5 55]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.43
+DEBUG:root:0.7158322056833559
+DEBUG:root:0.7639951408606843
+DEBUG:root:0.7158322056833559
+DEBUG:root:0.719830980437988
+DEBUG:root:[[72  1 51 22  3  1  7  2]
+ [ 0 93  9  2  1  1  2  4]
+ [11  5 65  7  7  1  2  2]
+ [ 0  0  2 88  1  1  0  0]
+ [ 0  1 14  1 50  1  5  0]
+ [ 1  1  8  0  0 55  0  4]
+ [ 1  0  8  0  5  0 51  3]
+ [ 0  0 11  0  0  0  1 55]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.7023004059539919
+DEBUG:root:0.7784327538651687
+DEBUG:root:0.7023004059539919
+DEBUG:root:0.7049084074414107
+DEBUG:root:[[59  2 63 25  4  1  5  0]
+ [ 0 95  8  2  1  1  2  3]
+ [ 5  4 70  9  6  3  2  1]
+ [ 0  0  3 88  0  1  0  0]
+ [ 0  1 13  0 50  1  7  0]
+ [ 0  1  9  0  0 57  0  2]
+ [ 0  1 15  0  5  0 46  1]
+ [ 0  0 12  0  0  1  0 54]]
+DEBUG:root:[('support', {'warrenty', 'hp', 'correct', 'told', 'realizwed', 'kept', 'service', 'support', 'coverage', 'replace'}), ('display', {'yahoo!mail', 'color', 'screen', 'monitor', 'pop', 'led', 'quit', 'display', 'resolution', 'blank'}), ('battery', {'suffice', 'life', 'hour', 'blazing', 'scary', 'needs', 'charge', 'replacing', 'battery', 'last'}), ('software', {'proprietary', 'software', 'itunes', 'utilizing', 'salesman', 'forward', 'developed', 'photo', 'talked', 'regular'}), ('keyboard', {'broad', 'stand', 'reasonable', 'real', 'key', 'accommodates', 'wasy', 'keyboard', 'dark', 'letters'}), ('os', {'windows', 'os', 'spotlight', 'parsing', 'mac', 'tens', 'ios', 'keyword', 'search', 'system'}), ('mouse', {'track', 'button', 'mousepad', 'touch', 'options', 'pad', 'quicker', 'snapped', 'mouse', 'touchpad'})]
+DEBUG:root:0.784037558685446
+DEBUG:root:0.8187075802392705
+DEBUG:root:0.784037558685446
+DEBUG:root:0.783024507620746
+DEBUG:root:[[93  3 38  3  6 13  3]
+ [ 0 96  4  2  1  2  7]
+ [ 0  0 89  1  2  0  0]
+ [ 0  3  3 54  2  7  3]
+ [ 0  3  4  0 58  0  4]
+ [ 2  3  1  6  0 53  3]
+ [ 1  0  5  0  1  2 58]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.8285308279761299
+DEBUG:root:0.7918622848200313
+DEBUG:root:0.788024726536115
+DEBUG:root:[[87  3 38  8  7 14  2]
+ [ 0 95  2  2  2  3  8]
+ [ 0  0 90  0  1  0  1]
+ [ 0  1  1 58  2  9  1]
+ [ 0  2  4  0 59  1  3]
+ [ 0  3  1  5  1 56  2]
+ [ 1  0  2  1  1  1 61]]
+DEBUG:root:threshold:0.43300000000001093
+DEBUG:root:0.6955345060893099
+DEBUG:root:0.7383594489910348
+DEBUG:root:0.6955345060893099
+DEBUG:root:0.6944962017756272
+DEBUG:root:[[70  1 41 33  3  1  8  2]
+ [ 0 93  8  3  1  1  2  4]
+ [ 8  9 49 16 11  3  2  2]
+ [ 0  0  1 89  1  1  0  0]
+ [ 0  1 10  3 50  1  7  0]
+ [ 1  1  7  1  0 57  0  2]
+ [ 0  2  5  0  8  0 52  1]
+ [ 0  0 10  1  0  1  1 54]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6968876860622463
+DEBUG:root:0.7694471379760397
+DEBUG:root:0.6968876860622463
+DEBUG:root:0.702038337925861
+DEBUG:root:[[62  1 60 26  3  1  5  1]
+ [ 0 95  9  2  0  1  2  3]
+ [ 7  6 64 12  6  3  1  1]
+ [ 0  0  4 87  0  1  0  0]
+ [ 0  1 13  0 51  1  6  0]
+ [ 0  1 11  0  0 55  0  2]
+ [ 0  1 14  0  5  0 47  1]
+ [ 0  0 11  1  0  1  0 54]]
+DEBUG:root:iteration: 1
+DEBUG:root:[('support', {'warrenty', 'hp', 'correct', 'told', 'realizwed', 'kept', 'service', 'support', 'coverage', 'replace'}), ('display', {'yahoo!mail', 'color', 'screen', 'monitor', 'pop', 'led', 'quit', 'display', 'resolution', 'blank'}), ('battery', {'suffice', 'life', 'hour', 'blazing', 'scary', 'needs', 'charge', 'replacing', 'battery', 'last'}), ('software', {'proprietary', 'software', 'itunes', 'utilizing', 'salesman', 'forward', 'developed', 'photo', 'talked', 'regular'}), ('keyboard', {'broad', 'stand', 'reasonable', 'real', 'key', 'accommodates', 'wasy', 'keyboard', 'dark', 'letters'}), ('os', {'windows', 'os', 'spotlight', 'parsing', 'mac', 'tens', 'ios', 'keyword', 'search', 'system'}), ('mouse', {'track', 'button', 'mousepad', 'touch', 'options', 'pad', 'quicker', 'snapped', 'mouse', 'touchpad'})]

@@ -1,0 +1,87 @@
+DEBUG:root:no filtering: False
+DEBUG:root:no tuning: False
+DEBUG:root:0.8095238095238095
+DEBUG:root:0.8229978743124556
+DEBUG:root:0.8095238095238095
+DEBUG:root:0.8137101580736488
+DEBUG:root:[[442  32  25  27   5]
+ [ 23 219  12   8   1]
+ [  8  14  89   1   1]
+ [  8   9   0  30   0]
+ [  2   1   7   0   2]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.8188405797101449
+DEBUG:root:0.8150284668761556
+DEBUG:root:0.8188405797101449
+DEBUG:root:0.8154810183404333
+DEBUG:root:[[455  36  24  16   0]
+ [ 21 225  15   2   0]
+ [ 11  16  86   0   0]
+ [ 13   9   0  25   0]
+ [  2   1   9   0   0]]
+DEBUG:root:threshold:0.41
+DEBUG:root:0.6792452830188679
+DEBUG:root:0.6664870319245745
+DEBUG:root:0.6792452830188679
+DEBUG:root:0.6635852212550977
+DEBUG:root:[[434  31  30  18  18   0]
+ [ 17 203  28  13   2   0]
+ [ 49  62  40  45   3   1]
+ [  6  12   8  87   0   0]
+ [  5   9   6   0  27   0]
+ [  2   1   1   7   0   1]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6869639794168096
+DEBUG:root:0.6668522322583342
+DEBUG:root:0.6869639794168096
+DEBUG:root:0.6664060812019019
+DEBUG:root:[[442  31  25  19  14   0]
+ [ 18 210  21  12   2   0]
+ [ 55  68  39  28   2   8]
+ [  8  15   5  85   0   0]
+ [ 10   9   3   0  25   0]
+ [  2   1   1   8   0   0]]
+DEBUG:root:[('food', {'tuna', 'specials', 'bland', 'portion', 'tasty', 'steak', 'food', 'sushi', 'pizza', 'spicy'}), ('service', {'manager', 'guy', 'seat', 'cafe', 'waitress', 'attentive', 'servers', 'asked', 'waiters', 'tips'}), ('ambience', {'lounge', 'seating', 'decor', 'cramped', 'lady', 'casual', 'cozy', 'romantic', 'atmosphere', 'quiet'}), ('drinks', {'beer', 'sake', 'beers', 'margaritas', 'wines', 'beverage', 'strawberry'}), ('location', {'view', 'river', 'convenient', 'block', 'located', 'avenue'})]
+DEBUG:root:0.8074534161490683
+DEBUG:root:0.8242922275850848
+DEBUG:root:0.8074534161490683
+DEBUG:root:0.8121170896163052
+DEBUG:root:[[439  35  27  27   3]
+ [ 21 219  14   8   1]
+ [  6  16  89   2   0]
+ [  6   9   0  31   1]
+ [  1   1   8   0   2]]
+DEBUG:root:k pseudolabel
+DEBUG:root:0.8198757763975155
+DEBUG:root:0.8158042912407457
+DEBUG:root:0.8198757763975155
+DEBUG:root:0.816379641976164
+DEBUG:root:[[456  36  24  15   0]
+ [ 21 225  15   2   0]
+ [ 11  16  86   0   0]
+ [ 13   9   0  25   0]
+ [  2   1   9   0   0]]
+DEBUG:root:threshold:0.43
+DEBUG:root:0.6946826758147513
+DEBUG:root:0.6950022849468338
+DEBUG:root:0.6946826758147513
+DEBUG:root:0.6895376885412671
+DEBUG:root:[[426  29  38  18  20   0]
+ [ 17 203  29  11   3   0]
+ [ 37  61  66  29   3   4]
+ [  3  15   9  86   0   0]
+ [  5   9   5   0  28   0]
+ [  1   1   1   8   0   1]]
+DEBUG:root:kplus pseudolabel
+DEBUG:root:0.6818181818181818
+DEBUG:root:0.6623826289516781
+DEBUG:root:0.6818181818181818
+DEBUG:root:0.661090106429681
+DEBUG:root:[[432  32  33  20  14   0]
+ [ 18 215  16  12   2   0]
+ [ 54  71  38  28   2   7]
+ [  8  15   5  85   0   0]
+ [ 11   9   2   0  25   0]
+ [  2   1   0   9   0   0]]
+DEBUG:root:iteration: 1
+DEBUG:root:[('food', {'tuna', 'specials', 'bland', 'portion', 'tasty', 'steak', 'food', 'sushi', 'pizza', 'spicy'}), ('service', {'manager', 'guy', 'seat', 'cafe', 'waitress', 'attentive', 'servers', 'asked', 'waiters', 'tips'}), ('ambience', {'lounge', 'seating', 'decor', 'cramped', 'lady', 'casual', 'cozy', 'romantic', 'atmosphere', 'quiet'}), ('drinks', {'beer', 'sake', 'beers', 'margaritas', 'wines', 'beverage', 'strawberry'}), ('location', {'view', 'river', 'convenient', 'block', 'located', 'avenue'})]
